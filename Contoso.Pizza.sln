@@ -29,6 +29,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{4E61F8A1-6
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contoso.Pizza.AdminUI.Services", "Frontend\Contoso.Pizza.AdminUI.Services\Contoso.Pizza.AdminUI.Services.csproj", "{6429C3EC-75B5-48B8-8570-C9B968404324}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DatabaseBackup", "DatabaseBackup", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,7 @@ Global
 		{617DDB77-9F87-49B3-8C61-48D78625D96F} = {03225E75-120E-4ECE-9712-AB359A511BEF}
 		{4E61F8A1-61B7-4228-8B96-EEAAD0ACF97E} = {03225E75-120E-4ECE-9712-AB359A511BEF}
 		{6429C3EC-75B5-48B8-8570-C9B968404324} = {28D8C81F-8FC5-4FCC-A786-830818DFD80F}
+		{02EA681E-C7D8-13C7-8484-4AC65E1B71E8} = {03225E75-120E-4ECE-9712-AB359A511BEF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {41FBC7CD-53B2-4C0F-ADAC-34EFEE49A663}

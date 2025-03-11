@@ -20,4 +20,8 @@
     <ProjectReference Include="..\Contoso.Pizza.Data.Models\Contoso.Pizza.Data.Models.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DatabaseBackup\" />
+  </ItemGroup>
+
 </Project>
